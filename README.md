@@ -1,3 +1,9 @@
+原始网址为：https://github.com/sdauzcm/301-RS-003/edit/master/README.md
+
+守一，你在运行前，首先读懂data preparation:,主要是patchify_building_images.py，看他是如何生成数据。
+
+
+
 # Duke_2017Summer
 This project includes the code for semantic segmentation of satelite images implemented during the internship at Duke.
 
